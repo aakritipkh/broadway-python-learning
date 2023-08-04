@@ -1,4 +1,4 @@
-1. git remote add origin <ssh-link>
+git 1. git remote add origin <ssh-link>
     This command connects your local repo with your remote repo. Your remote repo will be represented by name "origin"
 
 2. git remote -v
