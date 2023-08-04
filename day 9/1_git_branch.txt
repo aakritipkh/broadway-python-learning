@@ -9,3 +9,4 @@
 
 4. git checkout -b <branch_name>
     ==> step 2 and step 3 can be obtained from this single command i.e. create a new branch and jump to that newly created branch with all the codes from existing branch
+5. git merge <previous branch name>
