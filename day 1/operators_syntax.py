@@ -39,9 +39,9 @@ print (6 !=3) #True
 
 a = 1
 b = 1
-print(a is b ) # True
+print(a is b)  # True
 print(id(a))
-print(id(b)) # for the same objectt, id() gives equal value
+print(id(b))  # for the same object, id() gives equal value
 
 # Membership Operators
 # It is used to check membership of an object in a sequence
@@ -56,7 +56,7 @@ name = "Jon"  # here = is an assignment operator
 
 # +=, -+, *=, /= are also some of the assignment operators
 a = 1
-a = a + 1 # this line can also be written as a += 1
+a = a + 1  # this line can also be written as a += 1
 print(a)  # 2
 a += 1  # 3
 print(a)
@@ -68,6 +68,6 @@ print(a)
 # Normally associativity is from left-right except for the case of 'xx'.
 # For exponent (**), it is from right-left
 
-print(2**3**2)   #512
+print(2**3**2)   # 512
 
 

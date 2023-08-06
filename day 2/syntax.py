@@ -4,7 +4,7 @@
 message = "hello i'm learning \
           python"
 
-import json \
+import json\
 csv
 # We can use ';' to write multiple statements in a same line
 name = "Jon"; age=25
