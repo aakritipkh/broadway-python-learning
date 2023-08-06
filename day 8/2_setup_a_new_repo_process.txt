@@ -1,5 +1,5 @@
 1. In local project / folder:
-    git init (don't do it multiple times)
+    git init (don't do it multiple times; once every project)
 2. git add .
 3. git commit -m "<commit-message>"
 4. git branch -M main
