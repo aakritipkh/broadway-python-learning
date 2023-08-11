@@ -21,10 +21,11 @@ print(b)  # [[1, 2, 3], 4, 5]
 
 a[0][1] = 7
 print(a)  # [[1, 7, 3], 4, 6]
-print(b) # [[1, 7, 3], 4, 5]
+print(b)  # [[1, 7, 3], 4, 5]
 # But if mutable element of one list is changed then the change is also reflected in its copy
 
 # Python provides a function to entirely make a new copy of an object which is called deepcopy
+
 from copy import deepcopy
 a = [[1, 2, 3], 4, 5]
 b = deepcopy(a)

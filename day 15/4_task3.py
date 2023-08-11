@@ -11,5 +11,3 @@ elif score >= 0.6:
     print("You got grade D")
 else:
     print("You got grade F")
-
-

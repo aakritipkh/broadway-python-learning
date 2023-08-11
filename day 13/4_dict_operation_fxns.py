@@ -10,4 +10,4 @@ print(len(student))  # 3
 result = sorted(student)
 print(result)  # ['age', 'department', 'name']
 
-print(str(student))
+print(str(student)) # "{"name": "Jon", "age": 25, "department": "CS"}"

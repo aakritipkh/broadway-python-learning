@@ -1,9 +1,9 @@
 # operators are the special symbols in any programming language to carry out
-# #arithematic and logical operations
+# arithmatic and logical operations
 
 a = 1
 b = 2
-c = a +b
+c = a + b
 # here '=' is an assignment operator and '+' is n=an arithmetic operator
 
 # Arithmetic Operators
@@ -24,11 +24,11 @@ print(4 % 2)  # Gives 2
 
 
 
-##### Comparision/ Relational Operators ####
+# Comparision/ Relational Operators #
 # ==, <, >, !=, >=, <= are the relational operators
 
 print(4 == 5)  # False
-print(6 !=3 )  # True
+print(6 != 3)  # True
 
 
 # Logical Operators

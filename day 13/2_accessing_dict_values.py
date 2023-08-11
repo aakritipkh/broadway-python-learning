@@ -23,6 +23,7 @@ print(dob)  # None
 vowels = ["a", "e", "i", "o"]
 vowels.append("u")
 vowels.insert(2, "A")
+vowels[1] = "E"
 
 
 student = {"name": "Jon", "age": 25, "department": "CS"}
@@ -49,3 +50,5 @@ print(student)  # {"name": "Jon", "age": 25, "department": "CS}
 
 student.clear()
 print(student)  # {}
+
+del student  # deletes the object

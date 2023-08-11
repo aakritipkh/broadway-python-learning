@@ -10,15 +10,23 @@ a = {}  # This is also an empty dictionary
 student = {"name": "Jon", "age": 25, "department": "CS"}
 print(student)  # {"name": "Jon", "age": 25, "department": "CS"}
 student = dict(name="Jon", age=25, department="CS")
-
-student = ({"name": "Jon", "age": 25, "department": "CS"})
 print(student)
 
-student = dict([("name, "Jon"), ("age", 25), ("deparment, "CS")])
+student = dict({"name": "Jon", "age": 25, "department": "CS"})
+print(student)
+
+student = dict([("name", "Jon"), ("age", 25), ("department", "CS")])
+print(student)  # {"name": "Jon", "age": 25, "department": "CS"}
 
 # Creating a list og dictionaries
 student = [
-    {"name": "Jon", "age": 25, "department": "CS"}
-    {"name": "Jane", "age": 32, "department": "IT"}
-    {"name": "Harry", "age": 21, "department": "IT"}
+    {"name": "Jon", "age": 25, "department": "CS"},
+    {"name": "Jane", "age": 32, "department": "IT"},
+    {"name": "Harry", "age": 21, "department": "IT"},
 ]
+print(student)
+
+
+
+
+

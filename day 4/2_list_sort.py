@@ -16,7 +16,7 @@ numbers.sort(key=sort_with_the_second_item)
 print(numbers)
 
 a = [(4, 12, 5), (6, 1), (11, 12), (6, 7, 8)]
-#Expected Result [(6,1), (4, 12, 5), (6, 7, 8), (11, 12)]
+# Expected Result [(6,1), (4, 12, 5), (6, 7, 8), (11, 12)]
 def sort_with_the_last_item(data):
     return data[-1]
 
