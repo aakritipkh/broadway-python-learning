@@ -11,7 +11,7 @@ num1 = [1, 2, 3]
 num1.extend([4, 5, 6])
 print(num1)
 
-#insert() method
+# insert() method
 nums = [1, 2, 3, 4, 5]
 nums.insert(2, 3)
 print(nums)

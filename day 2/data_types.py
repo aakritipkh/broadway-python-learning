@@ -13,4 +13,4 @@ a[1] = 'd'
 a
 
 b = (1, 2, 3)
-b[1] = 5  # It raises error because theyre immutable object.
+# b[1] = 5  # It raises error because theyre immutable object.

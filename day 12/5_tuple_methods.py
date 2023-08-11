@@ -6,7 +6,7 @@ a = (1, 2, 3, 4, 2, 3, 4, 5)
 result = a.index(2)  # 1
 print(result)
 result = a.index(2, 2, 7)
-print(result) # 5
+print(result)  # 5
 
 print(a.count(1))  # 2
 print(a.count(2))  # 2

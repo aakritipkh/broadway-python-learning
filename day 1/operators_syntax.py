@@ -6,14 +6,14 @@ b = 2
 c = a +b
 # here '=' is an assignment operator and '+' is n=an arithmetic operator
 
-# Arithematic Operators
+# Arithmetic Operators
 # Addition (+)
-# Subraction (-)
+# Subtraction (-)
 # Multiplication (*)
 # Floor Division (//) => floor division removes the decimal value and only provides the integer towards floor.
 
 print(3 // 2)  # It gives 1
-print(-3 //2)  # it gives -2
+print(-3 // 2)  # it gives -2
 
 # Exponential (**)
 print(3 ** 2)  # it gives 9
@@ -27,8 +27,8 @@ print(4 % 2)  # Gives 2
 ##### Comparision/ Relational Operators ####
 # ==, <, >, !=, >=, <= are the relational operators
 
-print(4 == 5) #false
-print (6 !=3) #True
+print(4 == 5)  # False
+print(6 !=3 )  # True
 
 
 # Logical Operators
@@ -46,7 +46,7 @@ print(id(b))  # for the same object, id() gives equal value
 # Membership Operators
 # It is used to check membership of an object in a sequence
 print(2 in [1, 2, 3])  # True
-print(3 not in [1, 2, 3]) # False
+print(3 not in [1, 2, 3])  # False
 
 
 # Assignment Operator
