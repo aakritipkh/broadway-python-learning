@@ -24,7 +24,7 @@ print(4 % 2)  # Gives 2
 
 
 
-# Comparision/ Relational Operators #
+# Comparision/Relational Operators #
 # ==, <, >, !=, >=, <= are the relational operators
 
 print(4 == 5)  # False

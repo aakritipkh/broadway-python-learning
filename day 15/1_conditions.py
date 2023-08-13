@@ -77,7 +77,7 @@ else:
 # This is ternary if condition
 print("The number is greater than 10") if a > 10 else print("The number is less than 10")
 
-# Nested if ==> nested if is simply if condition inside a if condition
+# Nested if ==> nested if is simply if condition inside an if condition
 a = 20
 if a > 10:
     if a > 15:

@@ -44,4 +44,4 @@ if a == 2:
     msg = 'he said, "Hello!"'
 
     # Escape Sequence
-    message  = 'I\'m learning python'
+    message = 'I\'m learning python'
