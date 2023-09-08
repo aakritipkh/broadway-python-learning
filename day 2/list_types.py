@@ -12,7 +12,7 @@ a = [1, 2, 3]  # Non-empty list
 a = [1, "Hello", 2.1, {1, 2, 3}, {"a": 1, "b": 2}]
 # In this list, the data are of different types which is also supported by a python list
 
-# We can use built-in type function to check the type of an object
+# We can use built-in type function to check the type of object
 type([1, 2, 3])  # list
 type((1, 2, 3))  # tuple
 type(1)  # int

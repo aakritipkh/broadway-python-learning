@@ -1,4 +1,4 @@
-# There is a difference in function but there is a difference in functions and methods
+# Method is also a function but there is a difference in functions and methods
 
 # append() method
 nums = [1, 2, 3, 4]

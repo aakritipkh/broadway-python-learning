@@ -5,10 +5,9 @@
 
 a = 12
 b = -33
-c = 0b1010 # Binary number
-d = 0o127 # Octal number
-e = 0xAF12 # Hexadecimal number 0,1, 2, 3, 4, 5, 6,
-
+c = 0b1010  # Binary number
+d = 0o127  # Octal number
+e = 0xAF12  # Hexadecimal number 0, 1, 2, 3, 4, 5, 6
 # These are the integer types
 
 a = 12.0

@@ -5,7 +5,7 @@ print(vowels[0])  # ==> 'a'
 print(vowels[2])  # ==> 'i'
 #  print(vowels[5]) # It raises IndexError
 
-print(vowels[-1]) # ==> 'u'
+print(vowels[-1])  # ==> 'u'
 print(vowels[-3])  # ==> 'i'
 # print(vowels[-6])  # It raises IndexError
 
@@ -24,12 +24,12 @@ print(a[:7])  # [a, b, c, d, e, f]
 print(a[3:])  # [d, e, f, g, h, i, j]
 
 print(a[2: 6]) # [c, d, e, f]
-print (a[6: 2])  # []
+print(a[6: 2])  # []
 print(a[-7: -2])  # [d, e, f, g, h]
 print(a[-2: -7])  # []
 print(a[:-2])  # [a, b, c, d, e, f, h, h]
 print(a[2: -2])  # [c, d, e, f, g, h]
-print(a[-3]) # [h, i, j]
+print(a[-3])  # [h, i, j]
 
 # In every data-types operations, methods and built-in functions should be studied carefully
 
